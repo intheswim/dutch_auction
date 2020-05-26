@@ -1,4 +1,4 @@
-This is a optimization & combinatoric problem I solved as an excecise.
+This is a optimization & combinatoric problem I solved as an excercise.
 
 ***
 
